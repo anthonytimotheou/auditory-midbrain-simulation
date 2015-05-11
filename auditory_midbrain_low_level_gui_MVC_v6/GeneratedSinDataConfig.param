@@ -1,0 +1,24 @@
+//SOUNDGENERATION
+inputAudioLength 88200
+samplingFrequency 44100
+signalFrequency 1000
+radianShift90 3.76
+radianShift60 2.52
+radianShift30 1.25
+radianShift0 0
+soundLength 2
+startSecond 0.5
+toneDuration 1
+//SPIKERLAYER
+windowEquidistance 900
+threshold 0.02
+recoverySampleNumber 10000
+//NEURONLAYER
+neuronNumber 7
+neuronTypeChosen 0
+maxDelay 196
+delay90 196
+delay60 99
+delay30 6
+delay0 0
+neuronFireThreshold 20

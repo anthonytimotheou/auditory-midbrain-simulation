@@ -1,0 +1,17 @@
+// Input Layer Parameters
+inputAudioLength 200
+SoundFilename ear_small_pinna.csv
+logSound true
+// Mean Difference Spiker Parameters
+windowEquidistance 50
+threshold 0.001 
+recoverySampleNumber 100
+// Neural Network Parameters
+neuronFireThreshold 30
+neuronNumber 7 
+neuronTypeChosen 0 
+maxDelay 32
+delay90 32
+delay60 28
+delay30 16
+delay0 0
